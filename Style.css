@@ -85,7 +85,7 @@ body {
 }
 
 .btn.primary {
-    background: linear-gradient(135deg, #02fc55 0%, #d8f312 100%); /**   #667eea  #764ba2  **/   /* Simulacion de error de alineacion*/
+    background: linear-gradient(135deg, #02fc55 0%, #d8f312 100%);
     color: white;
     box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
 }
